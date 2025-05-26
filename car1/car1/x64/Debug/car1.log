@@ -1,0 +1,5 @@
+﻿  main.cpp
+H:\car\car1\car1\main.cpp(1903,95): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+H:\car\car1\car1\main.cpp(1942,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\car\car1\car1\main.cpp(2420,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  car1.vcxproj -> H:\car\car1\car1\x64\Debug\car1.exe
